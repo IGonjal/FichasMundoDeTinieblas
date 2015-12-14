@@ -1,0 +1,60 @@
+ATRIBUTOS
+FISICOS
+atributos 0 fisicos 0 Fuerza
+atributos 0 fisicos 1 Destreza
+atributos 0 fisicos 2 Resistencia
+FINFISICOS
+SOCIALES
+atributos 1 sociales 0 Carisma
+atributos 1 sociales 1 Manipulacion
+atributos 1 sociales 2 Apariencia
+FINSOCIALES
+MENTALES
+atributos 2 mentales 0 Percepcion
+atributos 2 mentales 1 Inteligencia
+atributos 2 mentales 2 Astucia
+FINMENTALES
+FINATRIBUTOS
+HABILIDADES
+TALENTOS
+habilidades 0 talentos 0 Alerta
+habilidades 0 talentos 1 Atletismo
+habilidades 0 talentos 2 Empatia
+habilidades 0 talentos 3 Esquivar
+habilidades 0 talentos 4 Expresion
+habilidades 0 talentos 5 Intimidacion
+habilidades 0 talentos 6 Liderazgo
+habilidades 0 talentos 7 Pelea
+habilidades 0 talentos 8 Prestidigitacion
+habilidades 0 talentos 9 Subterfugio
+FINTALENTOS
+TECNICAS
+habilidades 1 tecnicas 0 Armas_C_C
+habilidades 1 tecnicas 1 Comercio
+habilidades 1 tecnicas 2 Equitacion
+habilidades 1 tecnicas 3 Etiqueta
+habilidades 1 tecnicas 4 Interpretacion
+habilidades 1 tecnicas 5 Pericias
+habilidades 1 tecnicas 6 Sigilo
+habilidades 1 tecnicas 7 Supervivencia
+habilidades 1 tecnicas 8 Tiro_con_arco
+habilidades 1 tecnicas 9 Trato_con_animales
+FINTECNICAS
+CONOCIMIENTOS
+habilidades 2 conocimientos 0 Academicismo
+habilidades 2 conocimientos 1 Investigacion
+habilidades 2 conocimientos 2 Leyes
+habilidades 2 conocimientos 3 Linguistica
+habilidades 2 conocimientos 4 Medicina
+habilidades 2 conocimientos 5 Ocultismo
+habilidades 2 conocimientos 6 Politica
+habilidades 2 conocimientos 7 Sabiduria_popular
+habilidades 2 conocimientos 8 Senescal
+habilidades 2 conocimientos 9 Teologia
+FINCONOCIMIENTOS
+FINHABILIDADES
+VENTAJAS
+ventajas 0 virtudes 0 conciencia/conviccion
+ventajas 0 virtudes 1 Autocontrol/instinto
+ventajas 0 virtudes 2 Coraje
+FINVENTAJAS
